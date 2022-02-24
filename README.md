@@ -40,7 +40,7 @@ nvidia-docker run --it \
   AFSE
 ```
 
-# Reproduction
+# Reproduction on Attentive FP
 ## Reproducing the training process of AFSE
 In your jupyter notebook, set the task ID to reproduce the training process of AFSE using the data in "Benchmark_Datasets": 
 ```
@@ -51,3 +51,5 @@ In your jupyter notebook, set the task ID to reproduce the training process of A
 ```
 ./AFSE/Test&Viz_AFSE.ipynb
 ```
+# Reproduction on other models
+Please refer to "**[Molecular Property Prediction on a New CSV Dataset](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/csv_data_configuration)**"
