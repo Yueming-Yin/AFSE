@@ -1,7 +1,7 @@
 # AFSE
 Reproducing of the paper entitled "**[AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins](https://academic.oup.com/bib/article-abstract/23/3/bbac077/6554127)**" (Briefings in Bioinformatics, 2022, IF:13.994)
 
-- All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn.
+- All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn (or yinym96@qq.com).
 - AFSE has been deployed on our web page: www.noveldelta.com/AFSE.
 
 The [Code Ocean](https://codeocean.com) compute capsule will allow you to reproduce the results published by the author on your local machine<sup>1</sup>. Follow the instructions below, or consult [the knowledge base](https://help.codeocean.com/user-manual/sharing-and-finding-published-capsules/exporting-capsules-and-reproducing-results-on-your-local-machine) for more information. Don't hesitate to reach out via live chat or [email](mailto:support@codeocean.com) if you have any questions.
