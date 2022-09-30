@@ -1,5 +1,5 @@
 # AFSE
-Reproducing of the paper entitled "AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins"
+Reproducing of the paper entitled "AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins" (Briefings in Bioinformatics, 2022, IF:13.994)
 
 - All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn.
 - AFSE has been deployed on our web page: www.noveldelta.com/AFSE.
@@ -53,3 +53,22 @@ In your jupyter notebook, set the task ID to reproduce the training process of A
 ```
 # Reproduction on other models
 Please refer to "**[Molecular Property Prediction on a New CSV Dataset](https://github.com/awslabs/dgl-lifesci/tree/master/examples/property_prediction/csv_data_configuration)**"
+
+# Citations
+## In Latex
+```
+@article{yin2022afse,
+  title={AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins},
+  author={Yin, Yueming and Hu, Haifeng and Yang, Zhen and Jiang, Feihu and Huang, Yihe and Wu, Jiansheng},
+  journal={Briefings in Bioinformatics},
+  volume={23},
+  number={3},
+  pages={bbac077},
+  year={2022},
+  publisher={Oxford University Press}
+}
+```
+## In Word
+```
+Yin, Yueming, Haifeng Hu, Zhen Yang, Feihu Jiang, Yihe Huang, and Jiansheng Wu. "AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins." Briefings in Bioinformatics 23, no. 3 (2022): bbac077.
+```
