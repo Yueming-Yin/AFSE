@@ -1,5 +1,5 @@
 # AFSE
-Reproducing of the paper entitled "**[AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins](https://academic.oup.com/bib/article-abstract/23/3/bbac077/6554127)**" (Briefings in Bioinformatics, 2022, IF:13.994)
+Reproducing of the paper entitled "**[AFSE: towards improving model generalization of deep graph learning of ligand bioactivities targeting GPCR proteins](https://academic.oup.com/bib/article-abstract/23/3/bbac077/6554127)**" (Briefings in Bioinformatics, 2022, IF: 13.994)
 
 - All rights reserved by Yueming Yin, Email: 1018010514@njupt.edu.cn (or yinym96@qq.com).
 - AFSE has been deployed on our web page: www.noveldelta.com/AFSE.
